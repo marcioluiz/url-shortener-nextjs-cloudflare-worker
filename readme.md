@@ -2,12 +2,10 @@
 
 Based on Cloudflare Workers & Vercel
 
-[🇨🇳 简体中文](./readme-zhCN.md)
+**Try it now:** https://shtr.marcioluiz.tec.br
 
-**Try it now:** https://cf-url-admin.li2niu.com/
-
-- Username: li2niu
-- Password: li2niu
+- Username: chooseyours
+- Password: chooseyours
 
 _Please don't delete data with many clicks. We believe you won't._
 
@@ -94,12 +92,12 @@ id = "7f0bf9809c464f51871b753cdda2c124" ## Change it to yours
 Don't expose your vars in `wrangler.toml`
 
 ```
-USERNAME = "li2niu" # Change it and don't expose it in this file
-PASSWORD = "li2niu" # Change it and don't expose it in this file
-JWT_SECRET = "li2niu" # Change it and don't expose it in this file
-DEFAULT_PAGE = "https://blog.li2niu.com" # Change it
+USERNAME = "chooseyours" # Change it and don't expose it in this file
+PASSWORD = "chooseyours" # Change it and don't expose it in this file
+JWT_SECRET = "chooseyours" # Change it and don't expose it in this file
+DEFAULT_PAGE = "https://marcioluiz.tec.br" # Change it
 RECORD_CLICKS = true
-FE_ADMIN_DOMAIN = "https://cf-url-admin.li2niu.com" # Replace it with your admin domain, important for cross-origin allowlist
+FE_ADMIN_DOMAIN = "https://shtr.marcioluiz.tec.br" # Replace it with your admin domain, important for cross-origin allowlist
 
 ```
 
