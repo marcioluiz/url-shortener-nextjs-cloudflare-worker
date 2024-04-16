@@ -1,4 +1,4 @@
-name = "cf-worker-shorturl"
+name = "url-shortener-nextjs-cloudflare-worker"
 main = "src/index.js"
 compatibility_date = "2024-04-16"
 node_compat = true
