@@ -1,5 +1,5 @@
 {
-	"name": "cf-worker-shorturl-pages",
+	"name": "url-shortener-nextjs-cloudflare-worker-pages",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {

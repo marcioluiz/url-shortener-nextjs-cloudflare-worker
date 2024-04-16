@@ -76,7 +76,7 @@ Fill in the KV namespace ID in `wrangler.toml` below. It is not necessary to nam
 ```
 [[kv_namespaces]]
 binding = "LINKS"
-id = "7f0bf9809c464f51871b753cdda2c124" ## Change it to yours
+id = "chooseyours" ## Change it to yours
 ```
 
 ![Create namespace](./images/create-kv-namespace.jpg)
@@ -136,16 +136,8 @@ Cloudflare free plan has [limits](https://developers.cloudflare.com/workers/plat
 
 Vercel has limits for free users, but it is unlikely to be easily overused.
 
-### Support the Project
-
-<a href="https://www.buymeacoffee.com/lichuanyi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ### Credits
 
 - Vercel
 - GPT-4
 - Cloudflare
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Likenttt/eastlake-cloudflare-worker-short-url&type=Date)](https://star-history.com/#Likenttt/eastlake-cloudflare-worker-short-url&Date)

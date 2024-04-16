@@ -1,5 +1,5 @@
 {
-  "name": "cf-worker-shorturl",
+  "name": "url-shortener-nextjs-cloudflare-worker",
   "version": "0.0.0",
   "devDependencies": {
     "@babel/core": "^7.21.4",
