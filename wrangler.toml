@@ -10,8 +10,8 @@ id = "7876fd741be54100b1179e0d983a9ac7" ## Change it to yours
 command = "npm run build"
 [vars]
 USERNAME = "marcioluiz" # Change it and don't expose it in this file
-PASSWORD = "nuxzt7rtf&3dgzni@u2g" # Change it and don't expose it in this file
-JWT_SECRET = "jxhnd3u&8y@7tbddm#uzy23f3" # Change it and don't expose it in this file
+PASSWORD = "nuxzt7rtf3dgzniu2g" # Change it and don't expose it in this file
+JWT_SECRET = "jxhnd3u8y7tbddmuzy23f3ncdeu9woghw" # Change it and don't expose it in this file
 DEFAULT_PAGE = "https://marcioluiz.tec.br" # Change it
 RECORD_CLICKS = true
 FE_ADMIN_DOMAIN = "https://shtr.marcioluiz.tec.br" #Remember to replace it with your admin domain, important for cross origin allowlist
