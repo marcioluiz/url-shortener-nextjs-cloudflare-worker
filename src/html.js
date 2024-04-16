@@ -84,7 +84,7 @@ export const askPasswordPageHtml = `
           <button type="submit">Submit</button>
         </form>
         <footer>
-          Made by <a href="https://blog.li2niu.com" target="_blank" rel="noopener noreferrer">li2niu</a> with love in Wuhan, China
+          Made by <a href="https://marcioluiz.tec.br" target="_blank" rel="noopener noreferrer">Márcio Luiz</a> with love in BH, MG - Brasil
         </footer>
         <script>
           function togglePasswordVisibility() {
@@ -149,15 +149,11 @@ export const notFoundMessageHtml = `
     </style>
   </head>
   <body>
+    <h1>Página não Encotrada</h1>
     <h1>Page Not Found</h1>
-    <p>未找到！请联系网址提供者。</p>
-    <p>Not found! Please contact the URL provider.</p>
+    <p> Não encontrado! Por favor, faça contato com o provedor da URL.</p>
+    <p> Not found! Please contact the URL provider.</p>
     <p> ¡No encontrado! Por favor, contacta con el proveedor de la URL.</p>
-    <p> Introuvable ! Veuillez contacter le fournisseur de l'URL.</p>
-    <p> Nicht gefunden! Bitte wenden Sie sich an den URL-Anbieter.</p>
-    <p>見つかりません！URL提供者に連絡してください。</p>
-    <p> Не найдено! Пожалуйста, свяжитесь с поставщиком URL.</p>
-    <p>찾을 수 없음! URL 공급자에게 문의하십시오.</p>
     <a href="${DEFAULT_PAGE}">Go to Homepage</a>
   </body>
   </html>
