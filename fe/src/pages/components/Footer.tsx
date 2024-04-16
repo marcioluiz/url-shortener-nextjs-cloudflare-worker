@@ -6,14 +6,14 @@ const Footer: React.FC = () => {
       <p>
         Made by{" "}
         <a
-          href="https://blog.li2niu.com/"
+          href="https://marcioluiz.tec.br/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-black"
         >
-          li2niu
+          Márcio Luiz
         </a>{" "}
-        with &#10084; in Wuhan, China
+        with &#10084; in BH, MG - Brasil
       </p>
     </footer>
   );
