@@ -49,7 +49,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-gray-50 to-gray-100">
       <ForkMeBadge />
       <h1 className="text-3xl font-bold mb-8" style={{ color: "black" }}>
-        EastLake Short Url System Login
+        URL Shortener Login
       </h1>
       <form
         className="w-full max-w-lg p-4 bg-white rounded-lg shadow-md"

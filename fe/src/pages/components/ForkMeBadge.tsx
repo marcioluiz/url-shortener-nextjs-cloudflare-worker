@@ -4,7 +4,7 @@ import Image from "next/image";
 const ForkMeBadge: React.FC = () => {
   return (
     <a
-      href="https://github.com/Likenttt/cloudflare-worker-short-url"
+      href="https://github.com/marcioluiz/url-shortener-nextjs-cloudflare-worker"
       target="_blank"
       rel="noopener noreferrer"
     >
